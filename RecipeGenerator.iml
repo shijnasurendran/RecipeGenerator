@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/mysql-connector-java-5.1.46-bin.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-aop-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-aspects-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-beans-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-context-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-context-indexer-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-context-support-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-core-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-expression-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-instrument-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-jcl-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-jdbc-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-jms-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-messaging-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-orm-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-oxm-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-test-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-tx-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-web-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-webflux-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-webmvc-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-websocket-5.0.5.RELEASE.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/unirest-java-1.4.9.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/httpclient-4.5.5.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/httpcore-4.4.9.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/httpcore-nio-4.4.9.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/httpasyncclient-4.0-beta4.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/json-20180130.jar" />
+    <libelement value="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/jstl-1.2.jar" />
+    <conelement value="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5" />
+    <conelement value="org.eclipse.jst.j2ee.internal.web.container" />
+    <conelement value="org.eclipse.jst.j2ee.internal.module.container" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5" level="application" />
+    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.web.container" level="application" />
+    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.module.container" level="application" />
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.46-bin.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/mysql-connector-java-5.1.46-bin.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-aop-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-aop-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-aspects-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-aspects-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-beans-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-beans-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-context-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-context-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-context-indexer-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-context-indexer-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-context-support-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-context-support-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-core-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-core-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-expression-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-expression-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-instrument-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-instrument-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-jcl-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-jcl-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-jdbc-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-jdbc-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-jms-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-jms-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-messaging-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-messaging-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-orm-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-orm-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-oxm-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-oxm-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-test-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-test-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-tx-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-tx-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-web-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-web-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-webflux-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-webflux-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-webmvc-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-webmvc-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-websocket-5.0.5.RELEASE.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/spring-framework-5.0.5.RELEASE/libs/spring-websocket-5.0.5.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="unirest-java-1.4.9.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/unirest-java-1.4.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.5.5.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/httpclient-4.5.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.4.9.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/httpcore-4.4.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-nio-4.4.9.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/httpcore-nio-4.4.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpasyncclient-4.0-beta4.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/httpasyncclient-4.0-beta4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-20180130.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/json-20180130.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jstl-1.2.jar">
+        <CLASSES>
+          <root url="file://E:/Spring 2018/SSDI/RecipeGenerator/External Jars/jstl-1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
